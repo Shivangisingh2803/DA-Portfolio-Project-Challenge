@@ -36,5 +36,7 @@ Reports & Documentation
 
 Read Report - Data Analysis Resume Project Challenge.pdf for detailed analysis.
 Refer to SQL.md for explanations on SQL queries.
+
+
 ✅ Author: Shivangi Singh
 📅 Last Updated: 21-02-2025
