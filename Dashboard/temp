@@ -1,1 +1,42 @@
+Now create a Dashboard using Power Bi/Tableau/Ms Excel/OR any BI tool
+
+step1 -Data Pre-processing and Cleaning(Handle Missing Data, Remove Duplicates,Convert Data Types etc)
+step2 -Designing the 3-Page Report | Apply slicers as per your perspective 
+	Page 1: Lung Cancer Overview
+		KPI's-  Total Lung Cancer Cases
+			Average Age of Lung Cancer Patients
+			Percentage of Smokers with Lung Cancer
+			Mortality Rate for Lung Cancer Patients
+		Visuals-
+			Lung Cancer Cases by Country 
+			Lung Cancer Cases by Gender 
+			Age Distribution of Lung Cancer Patients  
+			Smoking Impact Score by Gender   
+			Mortality Rate vs. Air Pollution Exposure   
+			Lung Cancer Risk Score Distribution
+	Page 2: Smoking and Risk Factors
+		KPI's-  Total Smokers
+			Average Years of Smoking
+			High-Risk Patients (Risk Score > 5)
+			Early Detection Rate 
+		Visuals-
+			Smoking vs. Lung Cancer Cases   
+			Years of Smoking vs. Cancer Stage 
+			Passive Smoking Impact on Cancer Cases   
+			Lung Cancer Diagnosis by Smoking Impact Score   
+			Smoking and Air Pollution Exposure Relationship 
+			Early Detection Rate vs. Cancer Stage 
+	Page 3: Treatment & Survival Analysis   
+		KPI's-  Average Survival Years
+			Total Annual Lung Cancer Deaths 
+			Lung Cancer Prevalence Rate
+			Survival Rate by Early Detection 
+			
+		Visuals-
+			Survival Years by Treatment Type 
+			Lung Cancer Deaths by Country   
+			Developed vs. Developing Countries: Cancer Prevalence   
+			Mortality Rate vs. Treatment Type 
+			Survival Rate Distribution by Cancer Stage 
+			Survival years over gender.
 
